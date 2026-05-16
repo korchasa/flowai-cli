@@ -1,0 +1,5 @@
+# Pinned framework revision consumed by scripts/bundle-framework.ts
+# Bump via: deno task bump-framework <version>
+version: "0.12.10"
+commit_sha: "656151dbcb5e6e7f4f6ec4e139cbd061587560a3"
+tarball_sha256: "93c4dd215b64012a9c8dda3001602180a0da2cda7e9633e8a4f9507bb669921b"
